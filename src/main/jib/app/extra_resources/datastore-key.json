@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-learning-237423",
+  "private_key_id": "f2837ed5e00bca00a1e187bae46717bd44d6bfb9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0SstCuxqOlvlr\n8qYYWAUYSubG99KDY8Xlo5jzTrGUccY6ErOq/r8WViOS1B2+TGQWxD9OD6W/bXJJ\ni77U9ifcrajghwhUYbXEkbSCFCmQDXAA7DUDhTq6ZAdSQoZTFpknog1yaZNaUxKk\nE4TgzdPw4SH1Pp/C5iwSOEpLUudNVOzZz5lnvc0125IgyNKau/eGnD5qPq9RwCEd\n5TZqnpqhPSgQExqM+A9Wjxkj/fXwjFEtL1UbJde7u4NoLPFVerKBnayr3Doim3sh\nQ/6BkVwzVJrtJ46ayZoKaFszTy97mF+CUB+CK5k1dzXKgVPDLRGXn5O0vNd7uxQf\nQ+UywDthAgMBAAECggEAA4MoghCMlCYPTmHQCA3g7Yf6BnrJ/FrLfm2JO4Y3Me3k\nf3mhS+3CEcCUWVYuDSjGU2Y32IC4CSpr7VBeY543CRbOAS/IQwKTTLTM+DLF24NT\ngQUZBExKaFquBNV8ce5xBeNjkSzK3Nnc9VrW/h0saZctNu6lJKIgzisQEXcYP/qk\n3+ijGjNIn7kbAlRgZdoHcxj2JLfXOfu7YS8rea1xZl3Z+x4vFPOH28L+QCMhb7la\nCtSb4mYRSWX0rQ+JqZEEZ1QWdeLcSmqJMJ2gUgECqAe3luLAI/T28p7nl2DlCl7k\nQFBfNmzk2V4sfEqQfOoAPyiVw0r7myNZFQ1+XpgZZQKBgQD1Of1mzh3H1Ofol3ck\ntI2ECyLIHOoUWyvZiXAFtTkCSK50HH4WVbMQgDpBeqTGiPKogSlKGRBID1LQ5tbp\nkrt9OyVw8KOFCUF005sI3y3H17I1fmIeeH+xt5SGECH7+OzhVqCOf3TCFsSPShtr\n3BNhe+CB4orb6CL1cmu8cwNJVQKBgQC8NoBWbG7hovk63k7GxEKKt0tL9WkRf9YG\nIWff4kbzqncSzGZO1AuJoZO/7NfxOdONd2jmqhID4Bd56IFYfrAtCQPuI7j/brP7\nWF+8g2Tmm9KYPbqOHluSSbvhHHZaZ/c18jca843uehNGaiGtQhVlFgP10wxbfvN1\nKiW4vz453QKBgE8e07SMwi0Mc3qnDAjqvFIjKai5M4k31VENt/gPfYJQIwFRhBj+\ns5SaWrFvuaRY4Toe2kyPA6LMVuMR57ta3WVNZQooignNb7Ia6AWXxHSbEmOSEGRW\napTTb3dF00EyEnOt+IWhd/F7WRYGSgyl6Bbm2gvuJPFI16arsTkPPrs1AoGBAKUY\nLaUhgnXcLkCMJo/GMhRZyeu8PkjCWOuRu/swEkrE+aP8tbVp3SECIYdV6unHbqGF\n3/eNsTXDCPS/lU4Z+tHWOaNXpHwzEB9mmrvSidybTLSMWSs2x95fXTWOcObGkZu5\ndsrmX1aTsHqwuA+xivDbyeeFFC7iAg6BRQt0fdHlAoGAC7vgT+6MGVU4d36T/pRq\ns036ML+l+w+HcTp0Z6rI0sRX+N0ShX+/bvZ72rKibwJYO7/4whPTuWPupb6ORjY1\n5VfCkXaV7HBIEdf1pz1uYxAJPxOWMW3841oDQaIDtVcHVyo/QQuIhbD787l3WJrr\nnMhgVDsS+tlr98RUPyve1KY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "database-access@gcp-learning-237423.iam.gserviceaccount.com",
+  "client_id": "115471084538071483732",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/database-access%40gcp-learning-237423.iam.gserviceaccount.com"
+}

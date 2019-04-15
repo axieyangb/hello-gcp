@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    gcp:
+      project-id: gcp-learning-237423
+      credentials:
+        location: "file:${EXTRA_RESOURCE_DIR}/datastore-key.json"
+
