@@ -60,6 +60,11 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <environmentVariables>
+                        <EXTRA_RESOURCE_DIR>src/main/jib/app/extra_resources</EXTRA_RESOURCE_DIR>
+                    </environmentVariables>
+                </configuration>
             </plugin>
             <plugin>
                 <groupId>com.google.cloud.tools</groupId>

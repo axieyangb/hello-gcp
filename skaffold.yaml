@@ -1,0 +1,10 @@
+apiVersion: skaffold/v1beta7
+kind: Config
+build:
+  artifacts:
+    - image: gcp.io/gcp-learning-237423/hello-gcp
+deploy:
+  kubectl:
+    manifests:
+    - k8s/*.yaml
+    
