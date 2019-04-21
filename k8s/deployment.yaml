@@ -2,21 +2,21 @@ apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
   labels:
-    run: hello-world
-  name: hello-world
+    run: hello-gcp
+  name: hello-gcp
 spec:
   replicas: 1
   selector:
     matchLabels:
-      run: hello-world
+      run: hello-gcp
   strategy: {}
   template:
     metadata:
       labels:
-        run: hello-world
+        run: hello-gcp
     spec:
       containers:
       - image: gcr.io/gcp-learning-237423/hello-gcp
-        name: hello-world
+        name: hello-gcp
         resources: {}
 status: {}

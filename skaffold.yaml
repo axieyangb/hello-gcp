@@ -1,8 +1,11 @@
-apiVersion: skaffold/v1beta7
+apiVersion: skaffold/v1beta8
 kind: Config
 build:
   artifacts:
-    - image: gcp.io/gcp-learning-237423/hello-gcp
+    - image: gcr.io/gcp-learning-237423/hello-gcp
+      jibMaven: {}
+  local:
+    push: true
 deploy:
   kubectl:
     manifests:
