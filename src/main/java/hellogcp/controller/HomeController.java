@@ -26,4 +26,8 @@ public class HomeController {
     this.logger.info(welcomeWord);
     return welcomeWord;
   }
+  @RequestMapping("/morning")
+  public String goodMorning(){
+    return "Good Afternoon";
+  }
 }
