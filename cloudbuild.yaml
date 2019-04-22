@@ -1,5 +1,3 @@
 steps:
 - name: 'gcr.io/cloud-builders/mvn'
   args: ['clean', 'install']
-- name: 'gcr.io/cloud-builders/mvn'
-  args: ['jib:build']
